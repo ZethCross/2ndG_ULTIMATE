@@ -1,0 +1,3 @@
+[submodule "MHFU-HD"]
+	path = MHFU-HD
+	url = https://github.com/grimmtusk/MHFU-HD.git
